@@ -170,12 +170,15 @@ publications:
     authors: Yuhuan Liu, Haitian Zhong, <span class=myname>Jixiu Zhai</span>, Xueying Wang, Tianchi Lu
     conference: Briefings in Bioinformatics, [Accept](https://drive.google.com/file/d/1zZO2xkQ6L8-S6xNtg_4ReEnvF74dELZ3/view?usp=drive_link)
 
-  - title: SCMPPI:Supervised Contrastive Multimodal Framework for Predicting Protein-Protein Interactions
+  - title: SCMPPI: Supervised Contrastive Multimodal Framework for Predicting Protein-Protein Interactions
     link: https://arxiv.org/abs/2504.02698
     authors: Shengrui Xu, Tianchi Lu, Zikun Wang, <span class=myname>Jixiu Zhai</span>, Jingwan Wang
     conference: NeurIPS, [Submitting](https://drive.google.com/file/d/1wZDFE6VkZ7JLjLhC2lwTWe8XlMwdxWSB/view?usp=drive_link)
 
-
+  - title: PHbinder and PSGM: A Cascaded Framework for Epitope Prediction and HLA-I Allele Identification
+    link: https://www.biorxiv.org/content/10.1101/2025.06.25.661428v1
+    authors: Zikun Wang, Xueying WANG, <span class=myname>Jixiu Zhai</span>, Sheng Rui Xu, Tianchi LU
+    conference: Advanced Science, Submitting
     
 awards:
   title: 学术奖项
