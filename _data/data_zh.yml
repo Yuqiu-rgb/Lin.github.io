@@ -126,45 +126,32 @@ education:
   - degree: 兰州大学数学与统计学院
     university: 理学本科生（数学基础理论班）
     time: 2022 - 至今
-    # details: |
-    #   - GPA: 85.8（年级14/122）
-    #   - 英语水平：CET-4（557），CET-6（462）
-      
-    #   **核心课程及成绩：**
-    #   - 数学分析（三）: 90
-    #   - 数值分析: 92
-    #   - 数学模型: 93
-    #   - 数据结构: 90
-    #   - 随机过程: 90
-    #   - 运筹学: 95
-    #   - 数学物理方程: 88
-    #   - 代数学选讲: 95
-    #   - 泛函分析: 88
-    #   - 实变函数: 85
 
-# internships:
-#   title: 实习经历
-#   intro: |
-#     在人工智能与数据技术应用领域的专业实习经历：
-#   info:
-#     - position: 实习生
-#       time: 2024年7月15日 - 2024年8月31日
-#       company: 南京邮电大学信息产业技术研究院
-#       internship_content: |
-#         主要负责深度学习模型的设计、训练及优化，包括使用TensorFlow和PyTorch实现图像识别模型，并完成从数据预处理到模型调参、验证的全过程。参与模型在服务器上的部署，将训练好的模型上线到实际业务系统，保障其高效稳定运行。
-#       company_evaluation: |
-#         能够独立完成深度学习模型的开发和部署任务，理论基础扎实，实践能力突出。在实习期间展现出良好的问题分析和解决能力，具备团队合作精神，能主动沟通并协助同事解决技术难题，对新知识的学习和应用也非常积极。
     
 publications:
   title: 论文发表
   intro: |
     所在课题组为香港城市大学[卢天驰](https://scholars.cityu.edu.hk/en/persons/tianchi-lu(b07e5f18-7e17-443d-841a-7aa1a15f579a)/publications.html)博士候选人的ai4sci_bioinfo小组
   papers:
-  - title: "A General Language Model for Peptide Identification"
-    link: "https://arxiv.org/abs/2502.15610"
-    authors: "<span class=myname>Jixiu Zhai</span>, Tianchi Lu, Haitian Zhong, Ziyang Xu, Yuhuan Liu, Shengrui Xu, Jingwan Wang, Dan Huang"
-    conference: "Expert Systems With Applications, Submitting"
+  - title: A General Language Model for Peptide Identification
+    link: https://arxiv.org/abs/2502.15610
+    authors: <span class=myname>Jixiu Zhai</span>, Tianchi Lu, Haitian Zhong, Ziyang Xu, Yuhuan Liu, Shengrui Xu, Jingwan Wang, Dan Huang
+    conference: Expert Systems With Applications, Submitting
 
+  - title: PhosF3C: A Feature Fusion Architecture with Fine-Tuned Protein Language Model and Conformer for Prediction of General Phosphorylation Sites
+    link: https://academic.oup.com/bib/article/26/3/bbaf242/8151288
+    authors: Yuhuan Liu, Haitian Zhong, <span class=myname>Jixiu Zhai</span>, Xueying Wang, Tianchi Lu
+    conference: Briefings in Bioinformatics
+
+  - title: SCMPPI: Supervised Contrastive Multimodal Framework for Predicting Protein-Protein Interactions
+    link: https://arxiv.org/abs/2504.02698
+    authors: Shengrui Xu, Tianchi Lu, Zikun Wang, <span class=myname>Jixiu Zhai</span>, Jingwan Wang
+    conference: NeurIPS, [Submitting](https://drive.google.com/file/d/1wZDFE6VkZ7JLjLhC2lwTWe8XlMwdxWSB/view?usp=drive_link)
+
+  - title: PHbinder and PSGM: A Cascaded Framework for Epitope Prediction and HLA-I Allele Identification
+    link: https://www.biorxiv.org/content/10.1101/2025.06.25.661428v1
+    authors: Zikun Wang, Xueying WANG, <span class=myname>Jixiu Zhai</span>, Sheng Rui Xu, Tianchi LU
+    conference: Advanced Science, Submitting
     
 awards:
   title: 学术奖项
@@ -176,7 +163,7 @@ awards:
 
     - name: 兰州大学学习标兵
       year: 2023 - 2024
-      details: 
+      details: 1
       category: 学习
 
     - name: 全国大学生数学竞赛
