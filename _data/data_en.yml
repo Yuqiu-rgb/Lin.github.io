@@ -132,22 +132,7 @@ education:
   - degree: School of Mathematics and Statistics, Lanzhou University
     university: Bachelor of Science (Mathematics Foundation Theory Program)
     time: 2022 - Present
-    # details: |
-    #   - GPA: 85.8 (Rank 14/122)
-    #   - English Proficiency: CET-4 (557), CET-6 (462)
-      
-    #   **Core Courses and Grades:**
-    #   - Mathematical Analysis (III): 90
-    #   - Numerical Analysis: 92
-    #   - Mathematical Modeling: 93
-    #   - Data Structures: 90
-    #   - Stochastic Processes: 90
-    #   - Operations Research: 95
-    #   - Mathematical Physics Equations: 88
-    #   - Selected Topics in Algebra: 95
-    #   - Functional Analysis: 88
-    #   - Real Analysis: 85
-
+    
 publications:
   title: Publications
   intro: |
