@@ -68,13 +68,12 @@ education:
     
 publications:
   title: 论文发表
-  intro: |
-    所在课题组为香港城市大学[卢天驰](https://scholars.cityu.edu.hk/en/persons/tianchi-lu(b07e5f18-7e17-443d-841a-7aa1a15f579a)/publications.html)博士候选人的ai4sci_bioinfo小组
+  
   papers:
-  - title: A General Language Model for Peptide Identification
-    link: https://arxiv.org/abs/2502.15610
-    authors: <span class=myname>Jixiu Zhai</span>, Tianchi Lu, Haitian Zhong, Ziyang Xu, Yuhuan Liu, Shengrui Xu, Jingwan Wang, Dan Huang
-    conference: Briefings in Bioinformatics, Submitting
+  - title: NphosNet: Predicting Protein N-Phosphorylation Sites via xLSTM and Enhanced PLM Features with a Weighted Three-Channel Cross-Attention Mechanism
+    #link: https://arxiv.org/abs/2502.15610
+    authors: Lun Zhu, <span class=myname>Yiyu Lin</span>, Sen Yang
+    conference: Interdisciplinary Sciences - Computational Life Sciences(中科院Q2,JCRQ1,导师一作,本人二作)
 
   - title: PhosF3C:A Feature Fusion Architecture with Fine-Tuned Protein Language Model and Conformer for Prediction of General Phosphorylation Sites
     link: https://academic.oup.com/bib/article/26/3/bbaf242/8151288
