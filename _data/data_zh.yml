@@ -9,14 +9,14 @@ sidebar:
     citizenship: 国籍
     website: 网站
     github: GitHub
-    pdf: 简历PDF
+    #pdf: 简历PDF
     education_title: 教育经历
     languages_title: 语言能力
     interests_title: 研究方向
-    clubs_title: 社团经历
-    positions_title: 担任职位
-    sports_awards_title: 体育成就
-    social_practice_title: 社会实践
+    #clubs_title: 社团经历
+    #positions_title: 担任职位
+    #sports_awards_title: 体育成就
+    #social_practice_title: 社会实践
     
   # Profile information
   name: 林溢瑜
@@ -24,13 +24,13 @@ sidebar:
   avatar: lyy.jpg
 
   # Sidebar links
-  email: 320220948121@lzu.edu.cn
-  phone: 15105187418
-  citizenship: 中国-江苏-南京
-  party_member: 中共预备党员
-  github: https://github.com/fondress
-  huggingface: https://huggingface.co/fondress
-  pdf: https://drive.google.com/file/d/1A2s93Dft53qobk0or_hz40KQjUXoXt61/view?usp=drive_link
+  email: 2359448439@qq.com
+  phone: 13775227387
+  citizenship: 中国-江苏-常州
+  #party_member: 中共预备党员
+  github: https://github.com/Yuqiu-rgb
+  #huggingface: https://huggingface.co/fondress
+  #pdf: https://drive.google.com/file/d/1A2s93Dft53qobk0or_hz40KQjUXoXt61/view?usp=drive_link
 
   interests:
     title: 研究方向
@@ -44,71 +44,11 @@ sidebar:
     - item: 深度学习算法改进
       link:
       
-  clubs:
-    title: 社团经历
-    info:
-    - name: 兰州大学社团管理中心
-      role: 综合事务部
-      time: 2022 - 2023
-      
-    - name: 兰州大学文化行者社团
-      role: 项目委员
-      time: 2022 - 2023
+
   
-  positions:
-    title: 任职履历
-    info:
-    - title: 足球队队长
-      organization: 兰州大学数学院
-      time: 2022 - 2024
+
+
       
-    - title: 学习委员
-      organization: 2022级数学基地班
-      time: 2024 - 2026
-      
-  # 添加体育奖项到侧栏
-  sports_awards:
-    title: 运动成就
-    info:
-    - name: 南京市"市长杯"足球比赛
-      year: 2020
-      details: 第五名
-      
-    - name: 南京市"名校杯"篮球比赛
-      year: 2020
-      details: 季军
-      
-    - name: 南京市"名校杯"篮球比赛
-      year: 2021
-      details: 冠军
-      
-    - name: 兰州大学校运会男子4*100m接力
-      year: 2024
-      details: 银牌
-      
-  # 添加社会实践奖项到侧栏
-  social_practice_awards:
-    title: 社会实践
-    info:
-    - name: 兰州大学"三下乡"社会实践活动
-      year: 2023
-      details: 优秀学生
-      
-    - name: 兰州大学"三下乡"社会实践活动
-      year: 2023
-      details: 优秀团队、优秀成果
-      
-    - name: 中国大学生知行促进计划
-      year: 2023
-      details: 全国入围奖
-      
-    - name: 兰州大学第四届青年志愿服务大赛创意赛道
-      year: 2023
-      details: 铜奖
-      
-    - name: 圆梦工程服务农村未成年人传承优秀传统文化志愿活动
-      year: 2023
-      details: 优秀团队
 
 career-profile:
   title: 个人简介
