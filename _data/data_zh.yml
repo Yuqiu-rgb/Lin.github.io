@@ -13,17 +13,15 @@ sidebar:
     education_title: 教育经历
     languages_title: 语言能力
     interests_title: 研究方向
-    #clubs_title: 社团经历
-    #positions_title: 担任职位
-    #sports_awards_title: 体育成就
-    #social_practice_title: 社会实践
+    college: 学校
     
   # Profile information
   name: 林溢瑜
-  tagline: 数学专业本科生 & 科学智能研究助理
+  tagline: 生物计算方向硕士研究生
   avatar: lyy.jpg
 
   # Sidebar links
+  college:常州大学
   email: 2359448439@qq.com
   phone: 13775227387
   citizenship: 中国-江苏-常州
@@ -35,13 +33,13 @@ sidebar:
   interests:
     title: 研究方向
     info:
-    - item: 蛋白质序列二分类预测
+    - item: 蛋白质序列/结构预测
       link:
 
-    - item: 生物分子结合预测
+    - item:生物信息
       link:
 
-    - item: 深度学习算法改进
+    - item: 生物计算
       link:
       
 
@@ -53,19 +51,22 @@ sidebar:
 career-profile:
   title: 个人简介
   summary: |
-    我是一名数学专业本科生，专注于科学智能（AI for Science）与深度学习方向的研究。曾多次主持和参与深度学习与生物信息学交叉、多模态大模型等相关课题。我的学术和科研经历始终围绕着用人工智能方法解决科学领域的挑战展开。
-    你可以[点击此处下载我的中文简历](https://drive.google.com/file/d/1A2s93Dft53qobk0or_hz40KQjUXoXt61/view?usp=drive_link)。
+    我是林溢瑜，常州大学硕士研究生，主攻生物信息学。我的核心研究方向是利用深度学习模型精准预测蛋白质翻译后修饰位点。具体而言，我专注于设计与实现基于**多模态数据**（如序列、结构与进化信息）的**深度融合模型**，以提升预测的精度与鲁棒性。通过系统性的模型训练与优化，我致力于挖掘蛋白质功能调控的关键线索，为后续的生物学验证与药物发现提供可靠的算法支持.
 
 education:
   title: 教育经历
   info:
-  - degree: 南京师范大学附属中学
+  - degree: 利物浦大学(英国,QS 147)留学交换生(本科)
     university: 
-    time: 2019 - 2022
+    time: 2022.3-2023.3
     
-  - degree: 兰州大学数学与统计学院
-    university: 理学本科生（数学基础理论班）
-    time: 2022 - 至今
+  - degree: **帝国理工学院**(英国,QS 2)留学交换生(本科)
+    university: 
+    time: 2023.6-2023.10
+    
+  - degree: 常州大学计算机硕士研究生
+    university: 
+    time: 2024.9-2026.6
 
     
 publications:
