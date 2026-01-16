@@ -71,19 +71,23 @@ publications:
   intro: |
     Research group: ai4sci_bioinfo team led by [Tianchi Lu](https://scholars.cityu.edu.hk/en/persons/tianchi-lu(b07e5f18-7e17-443d-841a-7aa1a15f579a)/publications.html), PhD candidate at City University of Hong Kong
   papers:
-  - title: NphosNet: Predicting Protein N-Phosphorylation Sites via xLSTM and Enhanced PLM Features with a Weighted Three-Channel Cross-Attention Mechanism
+  - title: NphosNet:Predicting Protein N-Phosphorylation Sites via xLSTM and Enhanced PLM Features with a Weighted Three-Channel Cross-Attention Mechanism
+    link: 
     authors: Lun Zhu, <span class=myname>Yiyu Lin</span>, Sen Yang
     conference: Interdisciplinary Sciences - Computational Life Sciences(中科院Q2,JCRQ1,导师一作,本人二作)
 
   - title: PhosF3C:A Feature Fusion Architecture with Fine-Tuned Protein Language Model and Conformer for Prediction of General Phosphorylation Sites
+    link: 
     authors: Yuhuan Liu, Haitian Zhong, <span class=myname>Jixiu Zhai</span>, Xueying Wang, Tianchi Lu
     conference: Briefings in Bioinformatics
 
   - title: SCMPPI:Supervised Contrastive Multimodal Framework for Predicting Protein-Protein Interactions
+    link: 
     authors: Shengrui Xu, Tianchi Lu, Zikun Wang, <span class=myname>Jixiu Zhai</span>, Jingwan Wang
     conference: NeurIPS, [Submitting](https://drive.google.com/file/d/1wZDFE6VkZ7JLjLhC2lwTWe8XlMwdxWSB/view?usp=drive_link)
 
   - title: PHbinder and PSGM:A Cascaded Framework for Epitope Prediction and HLA-I Allele Identification
+    link: 
     authors: Zikun Wang, Xueying WANG, <span class=myname>Jixiu Zhai</span>, ShengRui Xu, Tianchi LU
     conference: Advanced Science, Submitting
     
