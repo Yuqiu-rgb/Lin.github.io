@@ -68,7 +68,8 @@ education:
     
 publications:
   title: 论文发表
-  
+  intro: |
+    Research group: ai4sci_bioinfo team led by [Tianchi Lu](https://scholars.cityu.edu.hk/en/persons/tianchi-lu(b07e5f18-7e17-443d-841a-7aa1a15f579a)/publications.html), PhD candidate at City University of Hong Kong
   papers:
   - title: NphosNet: Predicting Protein N-Phosphorylation Sites via xLSTM and Enhanced PLM Features with a Weighted Three-Channel Cross-Attention Mechanism
     authors: Lun Zhu, <span class=myname>Yiyu Lin</span>, Sen Yang
