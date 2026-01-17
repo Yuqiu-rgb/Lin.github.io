@@ -48,7 +48,7 @@ sidebar:
 career-profile:
   title: 个人简介
   summary: |
-    我是林溢瑜，常州大学硕士研究生，主攻生物信息学。我的核心研究方向是利用深度学习模型精准预测蛋白质翻译后修饰位点。具体而言，我专注于设计与实现基于**多模态数据**（如序列、结构与进化信息）的**深度融合模型**，以提升预测的精度与鲁棒性。通过系统性的模型训练与优化，我致力于挖掘蛋白质功能调控的关键线索，为后续的生物学验证与药物发现提供可靠的算法支持.
+    我是林溢瑜，常州大学硕士研究生，主攻生物信息学。我的核心研究方向是利用深度学习模型精准预测蛋白质翻译后修饰位点。具体而言，我专注于设计与实现基于**多模态数据**(如序列、结构与进化信息)的**深度融合模型**，以提升预测的精度与鲁棒性。通过系统性的模型训练与优化，我致力于挖掘蛋白质功能调控的关键线索，为后续的生物学验证与药物发现提供可靠的算法支持.
 
 education:
   title: 教育经历
@@ -69,28 +69,33 @@ education:
 publications:
   title: 论文发表
   intro: |
-    Research group: ai4sci_bioinfo team led by [Tianchi Lu](https://scholars.cityu.edu.hk/en/persons/tianchi-lu(b07e5f18-7e17-443d-841a-7aa1a15f579a)/publications.html), PhD candidate at City University of Hong Kong
+    核心贡献论文
   papers:
   - title: NphosNet:Predicting Protein N-Phosphorylation Sites via xLSTM and Enhanced PLM Features with a Weighted Three-Channel Cross-Attention Mechanism
     link: 
     authors: Lun Zhu, <span class=myname>Yiyu Lin</span>, Sen Yang
     conference: Interdisciplinary Sciences - Computational Life Sciences(中科院Q2,JCRQ1,导师一作,本人二作)
 
-  - title: PhosF3C:A Feature Fusion Architecture with Fine-Tuned Protein Language Model and Conformer for Prediction of General Phosphorylation Sites
+  - title: UniPTMs: The First Unified Multi-type PTM Site Prediction Model via Master-Slave Architecture-Based Multi-Stage Fusion Strategy and Hierarchical Contrastive Loss
     link: 
-    authors: Yuhuan Liu, Haitian Zhong, <span class=myname>Jixiu Zhai</span>, Xueying Wang, Tianchi Lu
-    conference: Briefings in Bioinformatics
+    authors: <span class=myname>Yiyu Lin</span>; Peng Shen; Jiahui Wu; Lun Zhu; Sen Yang
+    conference: iScience(中科院Q2,JCRQ1,本人一作)
 
-  - title: SCMPPI:Supervised Contrastive Multimodal Framework for Predicting Protein-Protein Interactions
+  - title: UniGraphPTMs: A Contrastive Learning-Enhanced Universal Framework for PTM Site Prediction via GNN and Multimodal Fusion. 
     link: 
-    authors: Shengrui Xu, Tianchi Lu, Zikun Wang, <span class=myname>Jixiu Zhai</span>, Jingwan Wang
-    conference: NeurIPS, [Submitting](https://drive.google.com/file/d/1wZDFE6VkZ7JLjLhC2lwTWe8XlMwdxWSB/view?usp=drive_link)
+    authors: <span class=myname>Yiyu Lin</span>. Jiahui Wu. Peng Shen. Sen Yang. Yan Wang
+    conference: BMC Genomics(中科院Q2,JCRQ1,本人一作)
 
-  - title: PHbinder and PSGM:A Cascaded Framework for Epitope Prediction and HLA-I Allele Identification
+  - title: UniProNet: A Universal PTM Site Prediction Model with an Equivariant Graph Neural Network and Multimodal Fusion.
     link: 
-    authors: Zikun Wang, Xueying WANG, <span class=myname>Jixiu Zhai</span>, ShengRui Xu, Tianchi LU
-    conference: Advanced Science, Submitting
-    
+    authors: <span class=myname>Yiyu Lin</span>. Jiahui Wu.  Sen Yang. Yan Wang
+    conference: 2025 IEEE International Conference on Bioinformatics and Biomedicine (IEEE BIBM 2025,CCF-B会议,生物信息学次旗舰会议,本人一作)
+
+  - title: ProteinNexus: An SE(3)-Equivariant and Dynamic Multi-Modal Engine Advancing from PTM Site Prediction to Network Understanding.
+    link: 
+    authors: <span class=myname>Yiyu Lin</span>. Jiahui Wu.  Sen Yang. Yan Wang
+    conference: Communications Chemistry(中科院Q1,JCRQ1,本人一作)
+
 awards:
   title: 学术奖项
   info:
