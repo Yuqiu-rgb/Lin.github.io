@@ -101,30 +101,35 @@ publications:
 awards:
   title: 学术奖项
   info:
-    - name: 国家奖学金
-      year: 2023 - 2024
-      details: 专业排名3/50
-      category: 学习
+    - name: Conputing Entrance Scholarship(UK帝国理工)
+      year: 
+      details: 
+      category:
 
-    - name: 兰州大学学习标兵
-      year: 2023 - 2024
-      details: 1
-      category: 学习
+    - name: President's Undergraduate Scholarships(UK帝国理工)
+      year: 
+      details: 
+      category: 
 
-    - name: 全国大学生数学竞赛
-      year: 2023
-      details: 甘肃赛区二等奖
-      category: 学习
+    - name: International Excellent Student Scholarship(UK利物浦)
+      year: 
+      details: 
+      category: 
 
-    - name: 全国大学生数学建模竞赛
-      year: 2024
-      details: 甘肃赛区特等奖
-      category: 学习
+    - name: 常州大学2024一等奖学金,2025三等奖学金
+      year: 
+      details: 
+      category: 
 
-    - name: 挑战杯创业计划竞赛
-      year: 2024
-      details: 吉林赛区银奖
-      category: 学习
+    - name: "华为杯"第二十二届中国研究生数学建模竞赛 全国二等奖
+      year: 
+      details: 
+      category: 
+      
+    - name: 中国大学生蓝桥杯江苏省一等奖，全国三等奖
+      year: 
+      details: 
+      category: 
   
 experiences:
   title: 科研经历
