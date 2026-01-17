@@ -69,7 +69,7 @@ education:
 publications:
   title: 论文发表
   intro: |
-    核心贡献论文
+    <span class=myname>部分代表作</span>
   papers:
   - title: NphosNet:Predicting Protein N-Phosphorylation Sites via xLSTM and Enhanced PLM Features with a Weighted Three-Channel Cross-Attention Mechanism
     link: 
@@ -96,13 +96,6 @@ publications:
     authors: <span class=myname>Yiyu Lin</span>. Jiahui Wu.  Sen Yang. Yan Wang
     conference: Communications Chemistry(中科院Q1,JCRQ1,本人一作)
     
-  intro: |
-    非核心贡献论文
-  papers:
-  - title: NphosNet:Predicting Protein N-Phosphorylation Sites via xLSTM and Enhanced PLM Features with a Weighted Three-Channel Cross-Attention Mechanism
-    link: 
-    authors: Lun Zhu, <span class=myname>Yiyu Lin</span>, Sen Yang
-    conference: Interdisciplinary Sciences - Computational Life Sciences(中科院Q2,JCRQ1,导师一作,本人二作)
 
     
 awards:
