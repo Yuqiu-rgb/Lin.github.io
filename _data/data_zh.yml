@@ -98,6 +98,13 @@ publications:
     
   intro: |
     非核心贡献论文
+  papers:
+  - title: NphosNet:Predicting Protein N-Phosphorylation Sites via xLSTM and Enhanced PLM Features with a Weighted Three-Channel Cross-Attention Mechanism
+    link: 
+    authors: Lun Zhu, <span class=myname>Yiyu Lin</span>, Sen Yang
+    conference: Interdisciplinary Sciences - Computational Life Sciences(中科院Q2,JCRQ1,导师一作,本人二作)
+
+    
 awards:
   title: 学术奖项
   info:
