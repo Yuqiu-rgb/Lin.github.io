@@ -101,23 +101,12 @@ publications:
 awards:
   title: 学术奖项
   info:
-    - name: "Conputing Entrance Scholarship"
-      institution: "帝国理工(UK)"
-      
-    - name: "President's Undergraduate Scholarships"
-      institution: "帝国理工(UK)"
-
-    - name: "International Excellent Student Scholarship"
-      institution: "利物浦大学(UK)"
-
-    - name: "常州大学奖学金"
-      details: "2024一等奖学金, 2025三等奖学金"
-
-    - name: "华为杯第二十二届中国研究生数学建模竞赛"
-      award: "全国二等奖"
-      
-    - name: "蓝桥杯"
-      details: "江苏省一等奖, 全国三等奖"
+    - "Conputing Entrance Scholarship(UK帝国理工)"
+    - "President's Undergraduate Scholarships(UK帝国理工)"
+    - "International Excellent Student Scholarship(UK利物浦)"
+    - "常州大学2024一等奖学金,2025三等奖学金"
+    - "华为杯第二十二届中国研究生数学建模竞赛:全国二等奖"
+    - "中国大学生蓝桥杯江苏省一等奖,全国三等奖"
   
 experiences:
   title: 科研经历
