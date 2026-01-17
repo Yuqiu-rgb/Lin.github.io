@@ -76,22 +76,22 @@ publications:
     authors: Lun Zhu, <span class=myname>Yiyu Lin</span>, Sen Yang
     conference: Interdisciplinary Sciences - Computational Life Sciences(中科院Q2,JCRQ1,导师一作,本人二作)
 
-  - title: UniPTMs: The First Unified Multi-type PTM Site Prediction Model via Master-Slave Architecture-Based Multi-Stage Fusion Strategy and Hierarchical Contrastive Loss
+  - title: UniPTMs:The First Unified Multi-type PTM Site Prediction Model via Master-Slave Architecture-Based Multi-Stage Fusion Strategy and Hierarchical Contrastive Loss
     link: 
     authors: <span class=myname>Yiyu Lin</span>; Peng Shen; Jiahui Wu; Lun Zhu; Sen Yang
     conference: iScience(中科院Q2,JCRQ1,本人一作)
 
-  - title: UniGraphPTMs: A Contrastive Learning-Enhanced Universal Framework for PTM Site Prediction via GNN and Multimodal Fusion. 
+  - title: UniGraphPTMs:A Contrastive Learning-Enhanced Universal Framework for PTM Site Prediction via GNN and Multimodal Fusion. 
     link: 
     authors: <span class=myname>Yiyu Lin</span>. Jiahui Wu. Peng Shen. Sen Yang. Yan Wang
     conference: BMC Genomics(中科院Q2,JCRQ1,本人一作)
 
-  - title: UniProNet: A Universal PTM Site Prediction Model with an Equivariant Graph Neural Network and Multimodal Fusion.
+  - title: UniProNet:A Universal PTM Site Prediction Model with an Equivariant Graph Neural Network and Multimodal Fusion.
     link: 
     authors: <span class=myname>Yiyu Lin</span>. Jiahui Wu.  Sen Yang. Yan Wang
     conference: 2025 IEEE International Conference on Bioinformatics and Biomedicine (IEEE BIBM 2025,CCF-B会议,生物信息学次旗舰会议,本人一作)
 
-  - title: ProteinNexus: An SE(3)-Equivariant and Dynamic Multi-Modal Engine Advancing from PTM Site Prediction to Network Understanding.
+  - title: ProteinNexus:An SE(3)-Equivariant and Dynamic Multi-Modal Engine Advancing from PTM Site Prediction to Network Understanding.
     link: 
     authors: <span class=myname>Yiyu Lin</span>. Jiahui Wu.  Sen Yang. Yan Wang
     conference: Communications Chemistry(中科院Q1,JCRQ1,本人一作)
